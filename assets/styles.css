@@ -21,12 +21,13 @@ header div{
     float: left;
 }
 
-header nav ul {
-    float: right;
+nav {
     list-style: none;
+    display: inline-block;
+    float: right;
 }
 
-header nav ul li {
+nav ul li {
     display:inline-block;
     font-size: 30px;
     font-weight: bold;
@@ -80,6 +81,11 @@ section ul {
     list-style: circle;
     font-size: 30px;
     font-family: monospace;
+}
+
+@media screen and (max-width: 768px){
+    nav ul li {
+        font-size: 15px; }
 }
 
 
