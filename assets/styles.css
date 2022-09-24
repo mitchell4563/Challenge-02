@@ -25,7 +25,7 @@ header div{
 nav {
     list-style: none;
     display: inline-block;
-    float:right;
+    float: right;
 }
 
 nav ul li {
@@ -96,7 +96,7 @@ section ul {
 }
 
 @media screen and (max-width: 992px) {
-    header, h1, h2, li, nav ul li, p{
+    header, h1, h2, li, nav ul li, p {
         font-size: 14px;
     }
     img {
@@ -107,7 +107,7 @@ section ul {
 
 @media screen and (max-width: 768px){
     header, h1, h2, a, nav ul li, p {
-        font-size: 14; 
+        font-size: 14px; 
     }
     img {
         max-width: 180px;
