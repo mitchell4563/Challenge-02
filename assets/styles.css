@@ -10,9 +10,10 @@ header {
     padding: 60px;
 }
 
-header h1 {
-    font-size: 30px;
+h1 {
+    font-size: 150%;
     font-weight: bold;
+    font-family: monospace;
     display: inline-block;
 }
 
@@ -24,12 +25,12 @@ header div{
 nav {
     list-style: none;
     display: inline-block;
-    float: right;
+    float:right;
 }
 
 nav ul li {
-    display:inline-block;
-    font-size: 30px;
+    display: inline-block;
+    font-size: 150%;
     font-weight: bold;
     margin-left: 20px;
     font-family: monospace;
@@ -66,14 +67,20 @@ div img {
 section header {
     padding:10px;
     font-weight:bold;
-    font-size: 24px;
+    font-size: 100%;
     font-family: monospace;
 
 }
 
-section p {
-    font-size: 20px;
+section div p {
     font-family: monospace;
+    font-size:150%;
+}
+
+h2 {
+    font-family: monospace;
+    font-weight: bold;
+    font-size:150%
 }
 
 /*Contact List*/
@@ -83,9 +90,16 @@ section ul {
     font-family: monospace;
 }
 
+@media screen and (max-width: 992px) {
+    header, h1, h2, li, nav ul li, section div p {
+        font-size: 85%; 
+    }
+}
+
 @media screen and (max-width: 768px){
-    nav ul li {
-        font-size: 15px; }
+    header, h1, h2, a, nav ul li, section div p {
+        font-size: 70%; 
+    }
 }
 
 
