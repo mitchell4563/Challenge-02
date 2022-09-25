@@ -21,6 +21,10 @@ https://mitchell4563.github.io/Challenge-02/
 <img src="./assets/images/ReadME-2.png" >
 <img src="./assets/images/ReadME-3.png" >
 
+## Credits
+
+- N/A
+
 ## License
 
 - Please Refer to the license in the repo
