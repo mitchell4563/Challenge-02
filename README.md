@@ -9,13 +9,11 @@
 
 ## Installation
 
-- N/A
+- Visit https://mitchell4563.github.io/Challenge-02/
 
 ## Usage
 
 - Using the Nav bar links located in the top right of the page, you can relocate your focus to one of three different sections. Also, embedded in all images except for the identification photo are links to "my projects" which all will open in a new tab.
-
-https://mitchell4563.github.io/Challenge-02/
 
 <img src="./assets/images/ReadME-1.png" >
 <img src="./assets/images/ReadME-2.png" >
