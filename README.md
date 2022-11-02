@@ -12,7 +12,7 @@
 - Visit https://mitchell4563.github.io/Challenge-02/
 
 ## Usage
-**None of the projects featured are mine, they were just sample websites to satisfy the project's acceptance criteria.
+**Some of the projects featured are not mine (Email  generator, calculator), they were just sample websites to satisfy the project's acceptance criteria.
 
 - Using the Nav bar links located in the top right of the page, you can relocate your focus to one of three different sections. Also, embedded in all images except for the identification photo are links to "my projects" which all will open in a new tab.
 
